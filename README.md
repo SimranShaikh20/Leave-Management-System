@@ -1,6 +1,6 @@
 # 🏖️ Leave Management System using MCP Server
 
-This project is a **Leave Management System** powered by the **MCP (Modular Command Platform)**. It allows users to apply for leave, view leave history, and check their leave balance through an easy-to-integrate server interface.
+This project is a **Leave Management System** powered by the **MCP (Model Context Protocol)**. It allows users to apply for leave, view leave history, and check their leave balance through an easy-to-integrate server interface.
 
 ---
 
