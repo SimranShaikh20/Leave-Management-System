@@ -21,11 +21,14 @@ This project is a **Leave Management System** powered by the **MCP (Model Contex
 - [Claude Desktop](https://github.com/microsoft/claude) (optional chat-based UI client)  
 
 ---
-[Leave](images\m1.png)
+
+## 🖼️ Preview
+
+![Leave Management System Screenshot](images/m1.png)
+
 ---
 
-[Leave](images\m2.png)
-
+![Leave Management System Screenshot](images/m12.png)
 ---
 
 ## 📦 Installation Guide
