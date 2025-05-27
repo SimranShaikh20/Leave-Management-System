@@ -28,7 +28,7 @@ This project is a **Leave Management System** powered by the **MCP (Model Contex
 
 ---
 
-![Leave Management System Screenshot](images/m12.png)
+![Leave Management System Screenshot](images/m2.png)
 ---
 
 ## 📦 Installation Guide
